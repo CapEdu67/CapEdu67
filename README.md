@@ -1,7 +1,7 @@
 # Hi 👋, I'm Adina
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmk3OGQzaDgyOTF5bjkwazdldXc1cHhxeGVoNTlhd3VsZ2tseWViNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xYMTfc3UFuqKTS0NP0/giphy.gif" width="600" alt="The Wind Rises Jiro" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21tc2dsdXQ3MWZjbXJ6bjIyZ3FhMHIwOGJraGx2OHlzajBydWkxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BPJmthQ3YRwD6QqcVD/giphy.gif" width="600" alt="The Wind Rises Jiro" />
   <br/>
 </div>
 
